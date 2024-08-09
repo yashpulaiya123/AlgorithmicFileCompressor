@@ -1,1 +1,2 @@
-# AlgorithmicFileCompressor
+# TextCompression
+ 
