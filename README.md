@@ -2,6 +2,7 @@
 
 ###### This project is an efficient C++ text compression algorithm leveraging Heaps, Binary Trees, HashMap, Priority Queue, etc. Data Structures with Huffman coding, which achieved the overall 40% - 90% Compression, Implemented seamless decoding techniques for the retrieval of original text files, ensuring the data integrity which was achieved by Optimized Space Utilization by using fewer bits for frequent characters.
 
+Demo  Below...
 
 
 
