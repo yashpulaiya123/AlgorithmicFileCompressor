@@ -243,3 +243,4 @@ int main()
     HuffmanCode hf;
     return 0;
 }
+
